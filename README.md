@@ -1,0 +1,2 @@
+# Research-on-Epidemic-Prevention-and-Control-Predictive-Modeling-and-Data-Driven-Insights
+Awarded Third Prize in the Hubei Province competition, this project developed Grey Prediction Models (GM(1,1)) to forecast post-COVID-19 trends. Using IBM SPSS and R, it provided actionable insights into population growth and economic recovery, offering innovative solutions for public health and policy planning.
